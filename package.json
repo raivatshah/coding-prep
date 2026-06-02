@@ -1,0 +1,10 @@
+{
+  "name": "coding-prep",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node scripts/audit-pattern-studio.mjs"
+  }
+}
